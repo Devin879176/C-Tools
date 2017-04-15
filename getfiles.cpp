@@ -1,6 +1,5 @@
 
 /*
-try to do 
 函数功能说明：
 getFiles(string path, vector<pair<string, int> >& files)
 path：文件夹路径 
